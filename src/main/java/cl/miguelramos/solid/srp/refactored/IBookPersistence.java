@@ -1,6 +1,6 @@
 package cl.miguelramos.solid.srp.refactored;
 
-public interface BookPersistence {
+public interface IBookPersistence {
 
     public void save(Book book);
 }

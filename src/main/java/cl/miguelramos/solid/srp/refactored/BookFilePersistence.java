@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.List;
 
-public class BookFilePersistence implements BookPersistence {
+public class BookFilePersistence implements IBookPersistence {
 
     public static final String BOOK_DIRECTORY_PATH = "/tmp";
 
