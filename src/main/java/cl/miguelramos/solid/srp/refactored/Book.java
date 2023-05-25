@@ -1,7 +1,7 @@
 package cl.miguelramos.solid.srp.refactored;
 
 import java.util.List;
-
+// EJemplo Clase book
 public class Book {
   private String title;
   private String author;
